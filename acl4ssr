@@ -21,8 +21,8 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 ruleset=📹 油管视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
-ruleset=📺 Prime Video,http
-ruleset=📺 Emby,http
+ruleset=📺 Prime Video,https://raw.githubusercontent.com/juedong1/r2srule/main/Prime-Video.list?token=GHSAT0AAAAAABSOI4VUPIK6NMEPHB2XBPPQYRNMJGA
+ruleset=📺 Emby,https://raw.githubusercontent.com/juedong1/r2srule/main/Emby.list?token=GHSAT0AAAAAABSOI4VU2JDEVKP3XO55MWC4YRNMIRQ
 ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
