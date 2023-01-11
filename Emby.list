@@ -1,6 +1,4 @@
 # > Emby
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,emby.vip
 DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,aaa.ax
-IP-CIDR,211.20.56.42/32,no-resolve
+DOMAIN-SUFFIX,misty.ltd
