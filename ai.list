@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com:
 DOMAIN-SUFFIX,msftconnecttest.com
