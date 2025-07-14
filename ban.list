@@ -1,5 +1,6 @@
 IP-CIDR,172.236.130.226/32,no-resolve
 IP-CIDR,172.236.150.25/32,no-resolve
 IP-CIDR,172.236.143.117/32,no-resolve
+IP-CIDR,172.236.150.43/32,no-resolve
 DOMAIN-SUFFIX,app.appsflyer.com
 DOMAIN-SUFFIX,shein.onelink.me
